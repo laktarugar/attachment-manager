@@ -1,0 +1,14 @@
+{
+    "name": "laktarugar/attachment-manager",
+    "description": "attachment module for yii",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Alexander Klimenko",
+            "email": "aklimenko89@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii": "1.1.14"
+    }
+}
